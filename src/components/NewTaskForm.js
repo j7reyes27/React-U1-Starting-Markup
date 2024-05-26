@@ -1,4 +1,3 @@
-// src/components/NewTaskForm.js
 import React, { useState } from 'react';
 
 const NewTaskForm = ({ addTask }) => {
